@@ -59,7 +59,7 @@
     <key>allowStickyKeys</key>
     <false />
     <key>allowSwitchToApplications</key>
-    <false />
+    <true />
     <key>allowUploads</key>
     <true />
     <key>allowUserAppFolderInstall</key>
@@ -131,9 +131,9 @@
     <key>clipboardPolicy</key>
     <integer>2</integer>
     <key>createNewDesktop</key>
-    <true />
+    <false />
     <key>detectStoppedProcess</key>
-    <true />
+    <false />
     <key>disableSessionChangeLockScreen</key>
     <false />
     <key>displayAlwaysOn</key>
@@ -157,7 +157,7 @@
     <key>enableAltTab</key>
     <true />
     <key>enableAppSwitcherCheck</key>
-    <true />
+    <false />
     <key>enableBrowserWindowToolbar</key>
     <false />
     <key>enableChromeNotifications</key>
@@ -205,7 +205,7 @@
     <key>enablePlugIns</key>
     <true />
     <key>enablePrintScreen</key>
-    <false />
+    <true />
     <key>enablePrivateClipboard</key>
     <true />
     <key>enableRightMouse</key>
