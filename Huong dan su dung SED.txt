@@ -1,0 +1,4 @@
+HƯỚNG DẪN
+1) Vào LINK03, vào thư mục SafeExamBrowser(SED), tải các file về 
+2) Cài đặt file Safe Exam Browser v3.3.0.354_x64Setup.msi với quyền Administrator 
+3) Mở file Safe Exam Browser ITFDUT.seb với SafeExamBrowser vừa cài đặt. 
